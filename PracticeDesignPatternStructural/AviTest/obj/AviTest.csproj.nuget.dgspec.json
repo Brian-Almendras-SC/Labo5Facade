@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj": {}
+    "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj": {}
   },
   "projects": {
-    "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj": {
+    "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj",
+        "projectUniqueName": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj",
         "projectName": "AviTest",
-        "projectPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj",
-        "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\AviTest\\obj\\",
+        "projectPath": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj",
+        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\AviTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj": {
-                "projectPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj"
+              "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj": {
+                "projectPath": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj"
               }
             }
           }
@@ -76,61 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
-        "projectName": "PracticeDesignPatternStructural",
-        "projectPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
-        "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

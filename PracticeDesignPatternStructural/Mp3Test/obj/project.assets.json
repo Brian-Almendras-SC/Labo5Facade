@@ -1253,16 +1253,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
-      },
-      "PracticeDesignPatternStructural/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/PracticeDesignPatternStructural.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PracticeDesignPatternStructural.dll": {}
-        }
       }
     }
   },
@@ -4952,36 +4942,35 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
-    },
-    "PracticeDesignPatternStructural/1.0.0": {
-      "type": "project",
-      "path": "../PracticeDesignPatternStructural/PracticeDesignPatternStructural.csproj",
-      "msbuildProject": "../PracticeDesignPatternStructural/PracticeDesignPatternStructural.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
-      "PracticeDesignPatternStructural >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Brian\\.nuget\\packages\\": {}
+    "C:\\Users\\brian\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\Mp3Test\\Mp3Test.csproj",
+      "projectUniqueName": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\Mp3Test\\Mp3Test.csproj",
       "projectName": "Mp3Test",
-      "projectPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\Mp3Test\\Mp3Test.csproj",
-      "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\Mp3Test\\obj\\",
+      "projectPath": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\Mp3Test\\Mp3Test.csproj",
+      "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+      "outputPath": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\Mp3Test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4995,8 +4984,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj": {
-              "projectPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj"
+            "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj": {
+              "projectPath": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj"
             }
           }
         }
@@ -5043,8 +5032,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
