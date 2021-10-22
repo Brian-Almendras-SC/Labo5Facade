@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Brian\\.nuget\\packages\\": {}
+    "C:\\Users\\brian\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
+      "projectUniqueName": "F:\\iot\\TareaN5\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
       "projectName": "PracticeDesignPatternStructural",
-      "projectPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
-      "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquitectura software\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\obj\\",
+      "projectPath": "F:\\iot\\TareaN5\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
+      "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+      "outputPath": "F:\\iot\\TareaN5\\Tarea5\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SOC/sanVXEQmQkSs+J/XKuu67SiXltijGCXS+4xVTujkzxzSrCg+/b0ZFUWVLEyd548KnB+2iZPvMjnKyWeu8w==",
-  "success": false,
-  "projectFilePath": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj",
+  "dgSpecHash": "WWHioqVKn9ve0vJ9LFSzgAc8OCTvqSVXbkXLTAE6GqDUEo9H0mY2vYPftayECqx7RAia9wN/FhXI9Pg6wlBsBQ==",
+  "success": true,
+  "projectFilePath": "F:\\iot\\TareaN5\\Tarea5\\PracticeDesignPatternStructural\\AviTest\\AviTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brian\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -70,15 +70,5 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "D:\\Arquitectura de sotfware\\Tarea5\\Labo5Facade\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural\\PracticeDesignPatternStructural.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
